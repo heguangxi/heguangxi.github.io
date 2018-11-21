@@ -24,7 +24,7 @@ Herring Cove is a clean and responsive theme for Jekyll.
 
 ### Setup
 
-1. Install Jekyll
+1. InstallJekyll
 2. Fork or [download](https://github.com/arnp/herring-cove/archive/master.zip) this theme repo
 3. Edit the `_config.yml` file
 
