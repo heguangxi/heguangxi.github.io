@@ -1,0 +1,326 @@
+{
+  "code": 0,
+  "msg": "OK",
+  "data": [
+    {
+      "id": 2043552,
+      "tea": {
+        "id": 2033502,
+        "course": {
+          "id": 2033501,
+          "courseCode": "n000134",
+          "courseName": "论文1116",
+          "shortName": "论文",
+          "mnemonicCode": "thesis",
+          "courseCredit": 3.0,
+          "coursePeriodType": "学时",
+          "coursePeriod": 54.0,
+          "teacherName": "",
+          "specializedField": {
+            "id": 3,
+            "parentBase": 1,
+            "baseInfoCode": "01",
+            "baseInfoName": "哲学",
+            "orderSort": 1,
+            "baseInfoType": "specialtycategory"
+          },
+          "specializedSubject": {
+            "id": 15,
+            "parentBase": 3,
+            "baseInfoCode": "0101",
+            "baseInfoName": "哲学类",
+            "orderSort": 1,
+            "baseInfoType": "specialtysubject"
+          },
+          "specialty": {
+            "id": 1,
+            "parentBase": 0,
+            "baseInfoCode": "1",
+            "baseInfoName": "本科",
+            "orderSort": 1,
+            "baseInfoType": "level"
+          },
+          "deptId": 115426,
+          "remark": "",
+          "courseStatus": "启用",
+          "createTime": "2016-11-16 10:37:44",
+          "orgId": 84,
+          "state": "审核通过",
+          "structId": 755,
+          "shenqingTime": "2016-11-16 10:37:44",
+          "auditTime": "2016-11-16 10:38:12",
+          "auditOpinion": "",
+          "ordinaryScore": 0.0,
+          "testScore": 0.0,
+          "hegeScore": 0.0,
+          "applyStructId": 755
+        },
+        "teachers": [
+          {
+            "id": 2153525,
+            "teacher": {
+              "id": 2044302,
+              "teacherName": "李四",
+              "userName": "lisiok",
+              "sex": "男",
+              "professionalTitle": {
+                "id": 115406,
+                "profesName": "高级职称",
+                "description": "",
+                "status": "启用",
+                "createTime": "2016-05-20 14:43:01",
+                "orgId": 84
+              },
+              "education": {
+                "id": 115404,
+                "educatName": "本科",
+                "description": "",
+                "status": "启用",
+                "createTime": "2016-05-20 14:39:28",
+                "orgId": 84
+              },
+              "status": "停用",
+              "mobile": "",
+              "email": "",
+              "idNumber": "410422199612188852",
+              "orgId": 84,
+              "landline": "",
+              "createTime": "2017-02-13 14:01:54",
+              "updateTime": "2017-02-13 14:01:54"
+            },
+            "roleId": 441,
+            "roleName": "共建教师"
+          }
+        ],
+        "teacher": {
+          "id": 115415,
+          "teacherName": "二号教师",
+          "userName": "erhaojiaoshi",
+          "teacherNumber": "001920",
+          "sex": "男",
+          "professionalTitle": {
+            "id": 115406,
+            "profesName": "高级职称",
+            "description": "",
+            "status": "启用",
+            "createTime": "2016-05-20 14:43:01",
+            "orgId": 84
+          },
+          "education": {
+            "id": 115404,
+            "educatName": "本科",
+            "description": "",
+            "status": "启用",
+            "createTime": "2016-05-20 14:39:28",
+            "orgId": 84
+          },
+          "status": "启用",
+          "mobile": "13510531043",
+          "email": "13510531043@163.com",
+          "idNumber": "110101199805018178",
+          "orgId": 84,
+          "landline": "",
+          "structId": 756,
+          "createTime": "2016-05-20 14:50:53",
+          "createUser": "519jiaowu"
+        },
+        "sbis": [],
+        "createTime": "2016-11-16 10:56:06",
+        "createUser": "519jiaowu",
+        "orgId": 84,
+        "orgName": "519机构",
+        "structId": 755,
+        "structName": "519省校1"
+      },
+      "re": {
+        "id": 514222,
+        "semesterName": "2017秋",
+        "recruitBatchs": [],
+        "startTime": "2017-01-01 00:00:00",
+        "endTime": "2017-01-31 00:00:00",
+        "orgId": 84,
+        "state": "通过",
+        "createTime": "2016-08-02 11:18:07",
+        "createUser": "519jiaowu",
+        "structId": 755
+      },
+      "orgid": 84,
+      "createtime": "2017-01-13 16:40:22",
+      "creator": 115415,
+      "updatetime": "2017-01-13 16:40:22",
+      "updator": 30945
+    },
+    {
+      "id": 2050402,
+      "tea": {
+        "id": 115450,
+        "course": {
+          "id": 115436,
+          "courseCode": "002",
+          "courseName": "课程2",
+          "shortName": "",
+          "mnemonicCode": "thesis",
+          "courseCredit": 10.0,
+          "coursePeriodType": "学时",
+          "coursePeriod": 180.0,
+          "teacherName": "",
+          "specialty": {
+            "id": 1,
+            "parentBase": 0,
+            "baseInfoCode": "1",
+            "baseInfoName": "本科",
+            "orderSort": 1,
+            "baseInfoType": "level"
+          },
+          "deptId": 1,
+          "remark": "",
+          "courseStatus": "启用",
+          "createTime": "2016-05-20 15:38:52",
+          "orgId": 84,
+          "state": "审核通过",
+          "structId": 755,
+          "shenqingTime": "2016-05-20 15:38:52",
+          "auditTime": "2016-05-20 15:51:18",
+          "auditOpinion": "",
+          "ordinaryScore": 0.0,
+          "testScore": 0.0,
+          "hegeScore": 0.0,
+          "applyStructId": 0
+        },
+        "teachers": [
+          {
+            "id": 223010,
+            "teacher": {
+              "id": 115446,
+              "teacherName": "十号教师",
+              "userName": "shihao",
+              "teacherNumber": "001928",
+              "sex": "男",
+              "professionalTitle": {
+                "id": 115407,
+                "profesName": "中级职称",
+                "description": "",
+                "status": "启用",
+                "createTime": "2016-05-20 14:43:13",
+                "orgId": 84
+              },
+              "education": {
+                "id": 115405,
+                "educatName": "研究生",
+                "description": "",
+                "status": "启用",
+                "createTime": "2016-05-20 14:41:41",
+                "orgId": 84
+              },
+              "status": "停用",
+              "mobile": "13591519151",
+              "email": "13591519151@163.com",
+              "idNumber": "110101198805017517",
+              "orgId": 84,
+              "landline": "123",
+              "structId": 761,
+              "createTime": "2016-05-20 16:10:58",
+              "createUser": "519jiaowu"
+            },
+            "roleId": 333,
+            "roleName": "519教学"
+          },
+          {
+            "id": 223011,
+            "teacher": {
+              "id": 115416,
+              "teacherName": "三号教师",
+              "userName": "sanhao",
+              "teacherNumber": "001921",
+              "sex": "男",
+              "professionalTitle": {
+                "id": 115406,
+                "profesName": "高级职称",
+                "description": "",
+                "status": "启用",
+                "createTime": "2016-05-20 14:43:01",
+                "orgId": 84
+              },
+              "education": {
+                "id": 115404,
+                "educatName": "本科",
+                "description": "",
+                "status": "启用",
+                "createTime": "2016-05-20 14:39:28",
+                "orgId": 84
+              },
+              "status": "启用",
+              "mobile": "13710141014",
+              "email": "13710141014@163.com",
+              "idNumber": "110101199805012913",
+              "orgId": 84,
+              "landline": "",
+              "structId": 757,
+              "createTime": "2016-05-20 14:51:59",
+              "createUser": "519jiaowu"
+            },
+            "roleId": 333,
+            "roleName": "519教学"
+          }
+        ],
+        "teacher": {
+          "id": 115414,
+          "teacherName": "一号教师",
+          "userName": "yihaojiaoshi",
+          "teacherNumber": "001919",
+          "sex": "男",
+          "professionalTitle": {
+            "id": 115406,
+            "profesName": "高级职称",
+            "description": "",
+            "status": "启用",
+            "createTime": "2016-05-20 14:43:01",
+            "orgId": 84
+          },
+          "education": {
+            "id": 115404,
+            "educatName": "本科",
+            "description": "",
+            "status": "启用",
+            "createTime": "2016-05-20 14:39:28",
+            "orgId": 84
+          },
+          "status": "启用",
+          "mobile": "13513511358",
+          "email": "13513511352@163.com",
+          "idNumber": "110101199805015591",
+          "orgId": 84,
+          "landline": "",
+          "structId": 755,
+          "createTime": "2016-05-20 14:50:00",
+          "createUser": "519jiaowu"
+        },
+        "sbis": [],
+        "createTime": "2016-05-20 16:13:53",
+        "createUser": "519jiaowu",
+        "orgId": 84,
+        "structId": 755,
+        "structName": "519省校1"
+      },
+      "re": {
+        "id": 81670,
+        "semesterName": "2016秋",
+        "recruitBatchs": [],
+        "startTime": "2017-03-01 00:00:00",
+        "endTime": "2016-09-30 00:00:00",
+        "orgId": 84,
+        "state": "未选题",
+        "createTime": "2016-05-19 14:48:38",
+        "createUser": "519jiaowu",
+        "structId": 755
+      },
+      "orgid": 84,
+      "createtime": "2017-04-17 13:25:45",
+      "creator": 115414,
+      "updatetime": "2017-04-17 13:25:45",
+      "updator": 30944
+    }
+  ],
+  "totalPage": 2,
+  "suc": true
+}

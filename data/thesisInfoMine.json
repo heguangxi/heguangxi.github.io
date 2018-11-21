@@ -1,0 +1,48 @@
+{
+  "code": 0,
+  "msg": "OK",
+  "data": [
+    {
+      "id": 2050403,
+      "name": "课程2论题1",
+      "semesterName": "2017秋",
+      "permitcount": 12,
+      "unvalidedate": "2017-04-17 00:00:00",
+      "submitstopdate": "2017-04-29 00:00:00",
+      "state": "待提交",
+      "studentThesises": []
+    },
+    {
+      "id": 2050403,
+      "name": "课程2论题1",
+      "semesterName": "2017秋",
+      "permitcount": 12,
+      "unvalidedate": "2017-04-17 00:00:00",
+      "submitstopdate": "2017-04-29 00:00:00",
+      "state": "待审批",
+      "studentThesises": []
+    },
+    {
+      "id": 2050403,
+      "name": "课程2论题1",
+      "semesterName": "2017秋",
+      "permitcount": 12,
+      "unvalidedate": "2017-04-17 00:00:00",
+      "submitstopdate": "2017-04-29 00:00:00",
+      "state": "未通过",
+      "studentThesises": []
+    },
+    {
+      "id": 2050403,
+      "name": "课程2论题1",
+      "semesterName": "2017秋",
+      "permitcount": 12,
+      "unvalidedate": "2017-04-17 00:00:00",
+      "submitstopdate": "2017-04-29 00:00:00",
+      "state": "通过",
+      "studentThesises": []
+    }
+  ],
+  "totalPage": 0,
+  "suc": true
+}

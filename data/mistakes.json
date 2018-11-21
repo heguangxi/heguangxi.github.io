@@ -1,0 +1,59 @@
+{
+  "data": {
+    "code": 0,
+    "errcode": 0,
+    "data": {
+      "rows": [
+        {
+          "id": 3945,
+          "classHour": "270.0",
+          "courseCover": "http://resourcepath.oss-cn-beijing.aliyuncs.com/course/1003/image/rZGzX5DgwOYQo6yYha2.jpg",
+          "courseName": "管理学基础",
+          "startTime": 1472659200000,
+          "endTime": 1484495999000,
+          "createUser": 3879,
+          "createName": "彭华",
+          "wrongTopicCount": 32
+        },
+        {
+          "id": 510664,
+          "classHour": "270.0",
+          "courseCover": "./images/course.jpg",
+          "courseName": "会计从业资格会计基础",
+          "startTime": 1475769600000,
+          "endTime": 1498838399000,
+          "createUser": 821,
+          "createName": "王巍",
+          "wrongTopicCount": 11
+        },
+        {
+          "id": 1735318,
+          "classHour": "54.0",
+          "courseCover": "http://resourcepath.oss-cn-beijing.aliyuncs.com/course/1003/image/rZGzX5DgwOYQo6yYha2.jpg",
+          "courseName": "计算机基础",
+          "startTime": 1481558400000,
+          "endTime": 1485878399000,
+          "createUser": 303945,
+          "createName": "向宇",
+          "wrongTopicCount": 3
+        },
+        {
+          "id": 1735400,
+          "classHour": "324.0",
+          "courseCover": "http://resourcepath.oss-cn-beijing.aliyuncs.com/course/1003/image/rZGzX5DgwOYQo6yYha2.jpg",
+          "courseName": "经济学基础",
+          "startTime": 1488124800000,
+          "endTime": 1498406399000,
+          "createUser": 3265,
+          "createName": "李婧",
+          "wrongTopicCount": 9
+        }
+      ],
+      "pageNo": 1,
+      "pageSize": 5,
+      "totalRecord": 4,
+      "totalPage": 1
+    },
+    "suc": true
+  }
+}

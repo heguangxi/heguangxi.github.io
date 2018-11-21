@@ -1,0 +1,33 @@
+{
+  "data": {
+    "code": 0,
+    "errcode": 0,
+    "data": {
+      "rows": [
+        {
+          "id": 568,
+          "msgStatus": 1,
+          "receiverId": 74239,
+          "messageId": 308,
+          "sendFacePhoto": "http://resourcepath.oss-cn-beijing.aliyuncs.com/course/1003/image/ErgyEbwZP8fStLbgxg.jpg",
+          "fileUrl": null,
+          "title": "活动",
+          "sendStatus": 0,
+          "createTime": 1491806677000,
+          "senderId": 66645,
+          "senderName": "高职演示教师1",
+          "appId": 1,
+          "msgTypeId": 2,
+          "objectId": 2268989,
+          "objectType": 2,
+          "msgContent": "你有活动未参加"
+        }
+      ],
+      "pageNo": 1,
+      "pageSize": 10,
+      "totalRecord": 1,
+      "totalPage": 1
+    },
+    "suc": true
+  }
+}

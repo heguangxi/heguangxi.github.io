@@ -1,0 +1,65 @@
+{
+  "data": {
+    "code": 0,
+    "errcode": 0,
+    "data": [
+      {
+        "courseId": 2035409,
+        "batchCourseId": 510664,
+        "courseName": "会计从业资格会计基础",
+        "category": null,
+        "attribute": null,
+        "dutyTeacher": "王巍",
+        "isExempt": null,
+        "usuallyResults": "0",
+        "highResults": "0",
+        "courseResults": "0",
+        "credit": "0",
+        "total": null
+      },
+      {
+        "courseId": 30360,
+        "batchCourseId": 1735288,
+        "courseName": "管理学基础",
+        "category": null,
+        "attribute": null,
+        "dutyTeacher": "张伟",
+        "isExempt": null,
+        "usuallyResults": "0",
+        "highResults": "0",
+        "courseResults": "0",
+        "credit": "0",
+        "total": null
+      },
+      {
+        "courseId": 30363,
+        "batchCourseId": 1735400,
+        "courseName": "经济学基础",
+        "category": null,
+        "attribute": null,
+        "dutyTeacher": "李婧",
+        "isExempt": null,
+        "usuallyResults": "0",
+        "highResults": "0",
+        "courseResults": "0",
+        "credit": "0",
+        "total": null
+      },
+      {
+        "courseId": 25154,
+        "batchCourseId": 1735401,
+        "courseName": "财务管理",
+        "category": null,
+        "attribute": null,
+        "dutyTeacher": "闫予磊",
+        "isExempt": null,
+        "usuallyResults": "0",
+        "highResults": "0",
+        "courseResults": "0",
+        "credit": "0",
+        "total": null
+      }
+    ],
+    "suc": true
+  }
+}

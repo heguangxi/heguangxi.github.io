@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "errcode": 0,
+  "data": {
+    "userId": 73955,
+    "nickName": "王冰春",
+    "accountName": "120101199206011005",
+    "mobiPhone": "18812341257",
+    "email": "1573604097@qq.com",
+    "createTime": "2016-06-24 16:17:21",
+    "portrait": "http://resourcepath.oss-cn-beijing.aliyuncs.com/course/1003/image/iPLc6XTsQvwP1uOcwhk.jpg",
+    "organization": {
+      "orgId": 90,
+      "orgName": "高职演示机构（模板）",
+      "orgCode": "30000",
+      "orgStructId": null,
+      "orgStructName": null,
+      "orgStructCode": null
+    },
+    "roles": null,
+    "idCard": "440981199912236439",
+    "studentId": 109808
+  },
+  "suc": true
+}

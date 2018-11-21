@@ -1,0 +1,17 @@
+{
+  "code": 0,
+  "msg": "OK",
+  "data": {
+    "id": 2043553,
+    "name": "ssss",
+    "semesterName": "201603",
+    "unvalidedate": "2017-01-13 00:00:00",
+    "submitstopdate": "2017-01-25 00:00:00",
+    "state": "未选择",
+    "attach": "http://resourcepath.oss-cn-beijing.aliyuncs.com/face/84/6246513F-F99A-4340-8847-AFCD0148DABF",
+    "description": "sssss",
+    "studentThesises": []
+  },
+  "totalPage": 0,
+  "suc": true
+}

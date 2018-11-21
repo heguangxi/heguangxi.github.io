@@ -1,0 +1,109 @@
+{
+  "code": 0,
+  "msg": "OK",
+  "data": {
+    "id": 2043553,
+    "name": "ssss",
+    "semesterName": "201606",
+    "permitcount": 6,
+    "unvalidedate": "2017-01-13 00:00:00",
+    "submitstopdate": "2017-01-25 00:00:00",
+    "attach": "http://resourcepath.oss-cn-beijing.aliyuncs.com/face/84/A0CA35B6-5CA8-4DEE-9FB8-1184761D018D",
+    "description": "",
+    "studentThesises": [
+      {
+        "submitstopdate": "2017-05-11 11:12:25",
+        "title": "5-11论文上传",
+        "submitcount": 13,
+        "state": "未通过",
+        "paperattach": "http://resourcepath.oss-cn-beijing.aliyuncs.com/course/1003/image/upload_def496ec_1e28_4b17_ad0b_f6e9864c847d_00000007.jpg",
+        "paperscore": 80.0,
+        "comment": "很好很好很好很好很好很好很好很好很好很好",
+        "approveattach": "http://resourcepath.oss-cn-beijing.aliyuncs.com/face/84/E4A1F145-B631-4863-9DFD-96FEDE346A4F",
+        "advice": "加油"
+      },
+      {
+        "submitstopdate": "2017-05-10 11:27:56",
+        "title": "刚刚回国后湖广会馆",
+        "submitcount": 12,
+        "state": "未通过",
+        "paperattach": "http://resourcepath.oss-cn-beijing.aliyuncs.com/course/1003/image/upload_fbd11ce3_1f90_44a4_a5bb_60f7a175b437_00000003.jpg",
+        "paperscore": 50.0,
+        "comment": "不好",
+        "approveattach": "http://resourcepath.oss-cn-beijing.aliyuncs.com/face/84/E4A1F145-B631-4863-9DFD-96FEDE346A4F",
+        "advice": "继续努力"
+      },
+      {
+        "submitcount": 11,
+        "state": "未通过"
+      },
+      {
+        "submitcount": 10,
+        "state": "未通过"
+      },
+      {
+        "submitcount": 9,
+        "state": "未通过"
+      },
+      {
+        "submitcount": 8,
+        "state": "未通过"
+      },
+      {
+        "submitcount": 7,
+        "state": "未通过"
+      },
+      {
+        "submitcount": 6,
+        "state": "未通过"
+      },
+      {
+        "submitcount": 5,
+        "state": "未通过"
+      },
+      {
+        "submitcount": 4,
+        "state": "未通过"
+      },
+      {
+        "submitstopdate": "2017-05-08 16:16:14",
+        "title": "sdf",
+        "submitcount": 3,
+        "state": "未通过",
+        "paperattach": "www.baidu.com"
+      },
+      {
+        "submitstopdate": "2017-05-08 16:11:44",
+        "title": "sdfsdf",
+        "submitcount": 2,
+        "state": "未通过",
+        "paperattach": "www.baidu.com"
+      }
+    ],
+    "shenHeThesises": [
+      {
+        "approvedate": "2017-05-11 11:33:28",
+        "submitcount": 0,
+        "paperscore": 80.0,
+        "comment": "很好很好很好很好很好很好很好很好很好很好",
+        "approveattach": "http://resourcepath.oss-cn-beijing.aliyuncs.com/face/84/E4A1F145-B631-4863-9DFD-96FEDE346A4F",
+        "advice": "加油",
+        "antion": "通过",
+        "approveflat": 4
+      }
+    ],
+    "student": {
+      "id": 125735,
+      "studentName": "王五",
+      "studentNumber": "",
+      "specialtyName": "音乐表演",
+      "specialtyLevel": "专科",
+      "title": "963",
+      "shenHeattach": "http://resourcepath.oss-cn-beijing.aliyuncs.com/face/84/E4A1F145-B631-4863-9DFD-96FEDE346A4F",
+      "submitstopdate": "2017-05-11 18:21:18"
+    },
+    "right": false
+  },
+  "totalPage": 0,
+  "suc": true
+}
