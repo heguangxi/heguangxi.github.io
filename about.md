@@ -27,7 +27,7 @@ There are two versions of **Hydejack**: The base version is free, while features
 
 
 ### A Free Blogging Theme
-**Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
+**Hydejack** started out as a free blogging theme for Jekyll — and continues to be   so.
 
 <!--posts-->
 
